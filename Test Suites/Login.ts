@@ -15,24 +15,24 @@
       <guid>407afdc3-53e5-4176-ad66-12a487534c7d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Not success login script (wrong login_and_passord)</testCaseId>
+      <testCaseId>Test Cases/Login_cases/1. Not success login script (wrong login_and_passord)</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>20ede43c-287c-4d05-a6a2-be761ddc8553</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Not success login script (wrong passord)</testCaseId>
+      <testCaseId>Test Cases/Login_cases/2. Not success login script (wrong passord)</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>f04e9c63-a585-4c78-8aa0-b4edb378e8fd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Not success login script (wrong user)</testCaseId>
+      <testCaseId>Test Cases/Login_cases/3. Not success login script (wrong user)</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>b2eb8b9b-b656-470a-bd60-6cd166594e69</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Success login script</testCaseId>
+      <testCaseId>Test Cases/Login_cases/4. Success login script</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
