@@ -11,8 +11,6 @@
 
 .project
 
-.settings/
-
 bin/lib/
 
 Libs/
