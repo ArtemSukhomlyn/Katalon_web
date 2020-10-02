@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Not success login script (wrong passord)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8ab9aa8-774d-41bb-b17e-d1cd1c614bb1</testCaseGuid>
+</TestCaseEntity>

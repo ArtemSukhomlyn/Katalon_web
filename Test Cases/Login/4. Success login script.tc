@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Success login script</name>
+   <tag>login</tag>
+   <comment></comment>
+   <testCaseGuid>9dcf5088-fdde-4008-b9b5-ce8791594453</testCaseGuid>
+</TestCaseEntity>
